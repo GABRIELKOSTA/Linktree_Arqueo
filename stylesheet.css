@@ -140,17 +140,6 @@ body {
   display: flex;
 }
 
-.dynamic-button:hover {
-  background-color: #000;
-  color: white;
-  box-shadow: 6px 6px 0px rgb(255, 255, 255);
-}
-
-/*Mudar cor da logo para branco ao passar o mouse*/
-.dynamic-button:hover .LogoPNG {
-  filter: invert(1);
-}
-
 /*Mudar cor DOTS para branco ao passar o mouse*/
 /*
 .dynamic-button:hover .dot {
