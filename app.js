@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
     const items = [
-        { text: "Visite nosso site", url: "", img: "./img/logos/Logo_icon.png", subitems: [] },
+        { text: "Visite nosso site", url: "", img: "./img/logos/logo_icon.png", subitems: [] },
         {
-            text: "REDES",
+            text: "Redes",
             url: "#",
             img: "./img/logos/arroba.png",
             subitems: [
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     console.log(`Feito por: -----------    -------------------
         █▀▀ ▄▀█ █▄▄ █▀█ █ █▀▀ █░░ █▄▀ █▀█ █▀ ▀█▀ ▄▀█
-        █▄█ █▀█ █▄█ █▀▄ █ ██▄ █▄▄ █░█ █▄█ ▄█ ░█░ █▀█ 🚀`)
+        █▄█ █▀█ █▄█ █▀▄ █ ██▄ █▄▄ █░█ █▄█ ▄█ ░█░ █▀█ `)
 
     const Buttons = document.getElementById('Buttons');
 
