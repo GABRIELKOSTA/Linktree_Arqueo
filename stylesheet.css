@@ -1,6 +1,6 @@
 /* PARTE UTILIZADA PARA IMPORTAÇÃO DE FONTES */
 @font-face {
-  font-family: Monserrat;
+  font-family: Montserrat;
   src: url(./Fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 
@@ -9,6 +9,8 @@
   src: url(./Fonts/Anton/Anton-Regular.ttf);
 }
 
+/*-----------------------------------------------------------------------------------*/
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +18,7 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Montserrat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,7 +65,7 @@ body {
 
 .text.small {
   font-size: 16px;
-  font-family: Monserrat;
+  font-family: Montserrat;
   font-weight: normal;
   margin-bottom: 20px;
   color: #fff;
@@ -112,7 +114,7 @@ body {
   color: #026101;
   font-size: 16px;
   font-weight: bold;
-  font-family: Monserrat;
+  font-family: Montserrat;
   text-align: center;
   cursor: pointer;
 }
@@ -235,7 +237,7 @@ body {
   
   .text.small {
     font-size: 16px;
-    font-family: Monserrat;
+    font-family: Montserrat;
     font-weight: normal;
     margin-bottom: 20px;
     color: #026101;
@@ -256,7 +258,7 @@ body {
     color: white;
     font-size: 15px;
     font-weight: 700;
-    font-family: Monserrat;
+    font-family: Montserrat;
     text-align: center;
     cursor: pointer;
   }
